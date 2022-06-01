@@ -44,6 +44,8 @@ dependencies:
   
   firebase_core: ^1.17.0
   firebase_auth: ^3.3.18
+  device_manager: ^0.0.1
+  device_preview: ^1.1.0
 
   
 
